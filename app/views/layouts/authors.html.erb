@@ -15,6 +15,9 @@
     <div class="container">
       <p class="notice"><%= notice %></p>
       <p class="alert"><%= alert %></p>
+      <div class="jumbotron">
+        <h3 class="heading"><%= link_to 'Posts', posts_path %></h3>
+      </div>
       <%= yield %>
     </div>  
   </body>
