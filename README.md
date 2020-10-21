@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project follows this tutorial:
+
+[Rails Tutorial | Building a Blog with Ruby on Rails 6](https://www.youtube.com/watch?v=MCEzxY9BbiU)
 
 Things you may want to cover:
 
